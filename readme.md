@@ -1,4 +1,4 @@
-Example Project
+Example Project: W3
 ===
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla convallis, diam eu vestibulum convallis, neque sem bibendum elit, non placerat metus orci vitae mauris. Nulla facilisi. Aenean ac mauris vel augue interdum accumsan et eget diam. Praesent non congue nisi. Nunc diam nulla, porta nec auctor at, scelerisque ornare risus. Nulla dictum libero mi, vitae tempor justo tincidunt quis. Sed luctus mi non facilisis ullamcorper. Donec laoreet, lacus id efficitur congue, felis mi hendrerit massa, ut gravida ipsum neque sed sem. Praesent suscipit metus ut urna maximus molestie non vitae nulla. Phasellus imperdiet massa eget finibus cursus. Nunc tempor porttitor rhoncus.
